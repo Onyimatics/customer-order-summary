@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4c6a8408-e16b-41a9-9e68-29d3d0da35b1/deploy-status)](https://app.netlify.com/sites/distracted-mccarthy-48fccb/deploys)
+
+
+- Deployed on Netlify at [Onyimatics-Order-Summary](onyimatics-order-summary.netlify.app)
+
+## Testing The App Locally
+
+- `Clone the repo` [Customer-Order-Summary](https://github.com/Onyimatics/customer-order-summary.git)
+
+- `npm install` to install the project dependencies
+
+- `npm start` to start the application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
