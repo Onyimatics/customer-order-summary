@@ -1,7 +1,7 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4c6a8408-e16b-41a9-9e68-29d3d0da35b1/deploy-status)](https://app.netlify.com/sites/distracted-mccarthy-48fccb/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/56e04681-9c7b-454c-95bd-98ae6200860e/deploy-status)](https://app.netlify.com/sites/onyimatics-order-summary/deploys)
 
 
-- Deployed on Netlify at [Onyimatics-Order-Summary](onyimatics-order-summary.netlify.app)
+- Deployed on Netlify at [Onyimatics-Order-Summary](https://onyimatics-order-summary.netlify.app)
 
 ## Testing The App Locally
 
